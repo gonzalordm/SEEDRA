@@ -1,0 +1,1 @@
+print("📘 doc_gen.py placeholder")
